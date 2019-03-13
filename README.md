@@ -15,4 +15,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 * https://github.com/acdh-oeaw/Teaching_CBS4DH
 
-Ps: I am learning about git. I am matrix hacker.
+Ps: I am learning about git. 
