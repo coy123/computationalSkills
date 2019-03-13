@@ -15,4 +15,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 * https://github.com/acdh-oeaw/Teaching_CBS4DH
 
-Ps: I am learning about git. Almost finished... 
+Ps: I am learning about git. Almost finished, only 30 minutes to go 
