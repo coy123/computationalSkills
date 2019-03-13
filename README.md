@@ -10,9 +10,9 @@ This the main README file for this project, which is done as an excercise during
 * [CSS](https://www.w3.org/Style/CSS/) - Cascading Style Sheets
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+no license use however you want
 
 ## Acknowledgments
 * https://github.com/acdh-oeaw/Teaching_CBS4DH
 
-Ps: I am learning about git. Almost finished... 
+Ps: I am learning about git. Almost finished...
