@@ -17,8 +17,5 @@ no license use however you want
 ## Acknowledgments
 * https://github.com/acdh-oeaw/Teaching_CBS4DH
 
-<<<<<<< HEAD
+Ps: I am learning about git. Almost finished, only 30 minutes to go
 MATRIIIIIIIIXXXXX!
-=======
-Ps: I am learning about git. Almost finished, only 30 minutes to go 
->>>>>>> 5d094a5897fb5e8bf35816a8d80710de276c2446
