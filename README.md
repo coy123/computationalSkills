@@ -4,6 +4,8 @@ This the main README file for this project, which is done as an excercise during
 ## Author(s)
 * **Name Surname** - [GitHub Profile](https://github.com/username)
 
+## another headline
+
 ## Built With
 * [HTML](https://www.w3.org/html/) - Hypertext Markup Language
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - ECMAScript standard
@@ -15,4 +17,4 @@ no license use however you want
 ## Acknowledgments
 * https://github.com/acdh-oeaw/Teaching_CBS4DH
 
-Ps: I am learning about git. Almost finished...
+Ps: I am learning about git. Almost finished, only 30 minutes to go 
